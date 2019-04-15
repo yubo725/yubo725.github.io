@@ -1,7 +1,22 @@
 ### [Flutter简介及开发环境搭建](https://juejin.im/post/5b4fef17e51d4519475f29f6)
 
 
+### [Flutter完整开发实战详解(Dart语言和Flutter基础)](https://juejin.im/post/5b631d326fb9a04fce524db2)
+
+
 ### [Dart语法基础](https://juejin.im/post/5b5005866fb9a04fea589561)
+
+
+### [Flutter瘦身大作战](https://juejin.im/post/5bd2ac975188252928653585)
+
+
+### [在Flutter中嵌入Native组件的正确姿势](https://juejin.im/post/5bed04d96fb9a049a42e9c40)
+
+
+### [腾讯NOW直播Flutter混合工程开发探究](https://juejin.im/post/5b55819ef265da0f8d36615e)
+
+
+### [Flutter渲染流程简析](https://juejin.im/post/5b7767fef265da43803bdc65)
 
 
 ### [Flutter插件开发例子分享到facebook和twitter](http://t.cn/E692SDa)
@@ -115,7 +130,7 @@
 ### [纷争再起：Flutter-UI绘制解析](http://t.cn/EMCyHKI)
 
 
-
+### [流言终结者- Flutter和RN谁才是更好的跨端开发方案？](https://juejin.im/post/5b9606055188255c7c6541c3)
 
 
 
