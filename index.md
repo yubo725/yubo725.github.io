@@ -142,7 +142,7 @@
 ### [Flutter Android/iOS包大小分析](https://juejin.im/post/5c0dd22ce51d455fc5426bb2)
 
 
-
+### [Add Flutter to existing apps](https://github.com/flutter/flutter/wiki/Add-Flutter-to-existing-apps#ios/)
 
 
 
